@@ -1,0 +1,10 @@
+Mabel Griffith	mabel@gmail.com	9905417832	21	Female	Rock, Country	Here for a good time not for a long time!	Straight	mabel	Standard
+Bernadette Callahan	bernadette@gmail.com	8133219403	22	Female	Country, Funk, R&B	My personality speaks for me	Straight	Dance	2022	University of North Florida	bernadette	Student
+Maryanne Hunt	maryanne@gmail.com	3134329940	22	Female	Country	Earth is flat	Pansexual	Computer Science	2023	University of Cincinnati	maryanne	Student
+Estelle Barber	estelle@gmail.com	8144328847	20	Female	Classical, R&B	*insert something interesting	Bisexual	estelle	Standard
+Sharp Walton	sharp@gmail.com	4124142241	24	Male	Metal, Jazz	Small town man	Straight	sharp	Standard
+Elinor Chan	elinor@gmail.com	4148859203	18	Female	Soul, Pop	This too shall pass	Bisexual	Music	2023	University of South Florida	elinor	Student
+Jensen Brewer	jensen@gmail.com	41489592390	20	Male	Rock	It's a new dawn, it's a new day, it's a new life!	Straight	Mechanical Engineering	2022	University of Colorado	jensen	Student
+Vinson Farmer	vinson@gmail.com	8844548821	21	Male	Funk, Instrumental	42	Straight	vinson	Standard
+Garrison Watts	garrison@gmail.com	414884002	25	Male	Spiritual, Ambient	I'm a dazzling star in the sky aonly to be discoverd at night	Pansexual	Chemical Engineering	2021	Pace University	garrison	Student
+Gonzalez Cooke	gonzalez@gmail.com	5283538913	19	Male	Punk, K-Pop	Up above the world so high, like a diamond in the sky	Bisexual	gonzalez	Standard
